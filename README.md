@@ -6,8 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![](https://user-images.githubusercontent.com/43435727/61550958-858ac000-aa71-11e9-97a1-3e74000e711b.png)
-![](https://user-images.githubusercontent.com/43435727/61551163-0ea1f700-aa72-11e9-8fd0-70c050e73ef7.png)
+![](https://user-images.githubusercontent.com/43435727/61550958-858ac000-aa71-11e9-97a1-3e74000e711b.png = 100*100)
+![](https://user-images.githubusercontent.com/43435727/61551163-0ea1f700-aa72-11e9-8fd0-70c050e73ef7.png =150*150)
 
 A few resources to get you started if this is your first Flutter project:
 
